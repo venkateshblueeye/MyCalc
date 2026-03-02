@@ -21,5 +21,5 @@ Open the MainActivity.java or MainActivity.kt file to confirm the entry point.
 Run the app on an emulator or connected device to verify functionality.
 
 **Video Link:**
-https://youtu.be/yj2fAVz3pi4
-https://youtu.be/yj2fAVz3pi4
+1. https://youtu.be/yj2fAVz3pi4
+2. https://youtu.be/yj2fAVz3pi4
