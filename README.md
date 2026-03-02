@@ -19,3 +19,7 @@ Check the Gradle sync status at the bottom of Android Studio.
 Ensure there are no errors in the Build Output window.
 Open the MainActivity.java or MainActivity.kt file to confirm the entry point.
 Run the app on an emulator or connected device to verify functionality.
+
+**Video Link:**
+https://youtu.be/yj2fAVz3pi4
+https://youtu.be/yj2fAVz3pi4
